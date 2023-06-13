@@ -1,0 +1,38 @@
+.home-bg {
+  background-color: #183b56;
+  height: 100vh;
+  padding: 10px;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+
+.logo {
+  height: 65px;
+  width: 105px;
+}
+.bt1 {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  padding: 8px;
+  color: #ffffff;
+}
+.head1 {
+  font-size: 50px;
+  color: #ffffff;
+}
+.card-pic {
+  height: 300px;
+  width: 600px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
